@@ -1,0 +1,17 @@
+:root{
+    --color-1: #014A4D;
+    --color-2: #03989e;
+    --color-3: #efbcd5;
+    --color-4: #be97c6;
+    --color-5: #8661c1;
+}
+@import url('https://fonts.googleapis.com/css2?family=Major+Mono+Display&family=Open+Sans&family=Roboto+Condensed&family=Roboto+Mono:wght@100&display=swap');
+
+// Include any default variable overrides here (though functions won't be available)
+
+/* $font-family-sans-serif:'Roboto Condensed', 'Open Sans' sans-serif ;
+$font-family-monospace: 'Major Mono Display', 'Roboto Mono', monospace; */
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+// Then add additional custom code here
