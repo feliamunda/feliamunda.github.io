@@ -9,30 +9,30 @@
 <h1 align="center">Felicie Page</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/feliamunda/felicie-page?color=003332">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/feliamunda/feliamunda.github.io?color=003332">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/feliamunda/felicie-page?color=003332">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/feliamunda/feliamunda.github.io?color=003332">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/feliamunda/felicie-page?color=003332">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/feliamunda/feliamunda.github.io?color=003332">
 
-  <img alt="License" src="https://img.shields.io/github/license/feliamunda/felicie-page?color=003332">
+  <img alt="License" src="https://img.shields.io/github/license/feliamunda/feliamunda.github.io?color=003332">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/feliamunda/felicie-page?color=003332" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/feliamunda/feliamunda.github.io?color=003332" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/feliamunda/felicie-page?color=003332" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/feliamunda/feliamunda.github.io?color=003332" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/feliamunda/felicie-page?color=003332" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/feliamunda/feliamunda.github.io?color=003332" /> -->
 </p>
 
 <!-- Status -->
 
-<h4 align="center"> 
+<!-- <h4 align="center"> 
 	🚧  Felicie Page 🚀 Under construction...  🚧
-</h4> 
+</h4>  -->
 
 <hr>
 
-<!-- <p align="center">
+<p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-Describe your project
+This Project is my presentation page 
 
 ## :sparkles: Features ##
 
@@ -58,11 +58,10 @@ Describe your project
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Bootstrap](https://getbootstrap.com//)
+- [Sass](https://sass-lang.com/)
 
 ## :white_check_mark: Requirements ##
 
@@ -78,12 +77,19 @@ $ git clone https://github.com/feliamunda/felicie-page
 $ cd felicie-page
 
 # Install dependencies
-$ yarn
+$ npm install
 
 # Run the project
-$ yarn start
-
+$ npm start
+# Runs the app in the development mode
 # The server will initialize in the <http://localhost:3000>
+
+# Test project
+$ npm test
+# Launches the test runner in the interactive watch mode.
+
+# Builds the app for production to the `build` folder
+$ npm run build
 ```
 
 ## :memo: License ##
@@ -96,4 +102,3 @@ Made with :heart: by <a href="https://github.com/feliamunda" target="_blank">Fel
 &#xa0;
 
 <a href="#top">Back to top</a>
- -->
